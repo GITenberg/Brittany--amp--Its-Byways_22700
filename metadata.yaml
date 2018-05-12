@@ -1,0 +1,33 @@
+_repo: Brittany--amp--Its-Byways_22700
+_version: 0.1.0
+alternative_title: Brittany and Its Byways
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Palliser, Bury, Mrs.
+    aliases:
+    - Bury-Palliser, Mrs.
+    - Palliser, Fanny Bury
+    - Palliser, Mrs.
+    - Palliser, Fanny Marryat
+    birthdate: 1805
+    deathdate: 1878
+    gutenberg_agent_id: '25496'
+    url: http://www.gutenberg.org/2009/agents/25496
+description: ''
+gutenberg_bookshelf: France
+gutenberg_issued: '2007-09-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22700'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brittany (France) -- Description and travel'
+- !lcc 'DC'
+title: Brittany & Its Byways
+url: http://www.gutenberg.org/ebooks/22700
