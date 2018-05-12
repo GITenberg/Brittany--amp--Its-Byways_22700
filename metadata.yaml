@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '25496'
     url: http://www.gutenberg.org/2009/agents/25496
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22700#Brittany--amp--Its-Byways
 gutenberg_bookshelf: France
 gutenberg_issued: '2007-09-21'
 gutenberg_type: Text
